@@ -1,0 +1,4 @@
+Default bucket: sagemaker-us-east-1-954372485966
+
+
+{'ResponseMetadata': {'RequestId': 'ZTVGCRG576XNCGZX', 'HostId': 'vlEtvNF2GUi3ddTyxv6vJhfcT+X/B15ypIOPwRrFB2FuAbTDL3ssD0a4h4ySgyGfErmJ06ZjVig=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'vlEtvNF2GUi3ddTyxv6vJhfcT+X/B15ypIOPwRrFB2FuAbTDL3ssD0a4h4ySgyGfErmJ06ZjVig=', 'x-amz-request-id': 'ZTVGCRG576XNCGZX', 'date': 'Tue, 07 Mar 2023 00:14:50 GMT', 'x-amz-bucket-region': 'us-east-1', 'x-amz-access-point-alias': 'false', 'content-type': 'application/xml', 'server': 'AmazonS3'}, 'RetryAttempts': 0}}
